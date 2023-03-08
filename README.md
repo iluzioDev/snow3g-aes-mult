@@ -62,11 +62,9 @@ Option  ->
 
 Distributed under the MIT License. [Click here](LICENSE.md) for more information.
 
-<!--
 ---
 <div align="center">
 	<b>
 		<a href="https://www.npmjs.com/package/get-good-readme">File generated with get-good-readme module</a>
 	</b>
 </div>
--->
